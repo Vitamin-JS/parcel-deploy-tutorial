@@ -20,7 +20,8 @@
 - `<script src="./index.js"></script>`
 
 6. Добавить полезный плагин  `npm install parcel-plugin-nuke-dist --save-dev`, к/й очищает папку dist перед каждой новой сборкой npm run build или npm run deploy
-7. Начало разработки  npm run dev,  Запуск в продакшин -  npm run build
+
+7. НАЧАЛО РАЗРАБОТКИ  `npm run dev`,  Запуск в продакшин -  обычно  `npm run build`, но в нашем случае - `npm run deploy`
    -  Плагин для SASS - `npm install -D sass`
 
 Deploy Tutorial
